@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # react_chart
+![Desktop View](https://user-images.githubusercontent.com/29206814/195155343-115f69e6-9934-42a1-ac46-a24d942ca938.png)
+![Mobile view](https://user-images.githubusercontent.com/29206814/195155366-a821f9f7-2c28-4a80-bb36-78587a63b1ee.png)
